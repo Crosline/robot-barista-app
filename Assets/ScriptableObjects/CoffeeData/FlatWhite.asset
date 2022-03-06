@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6936c96c334b70c41b0ef08a0f526cd2, type: 3}
+  m_Name: FlatWhite
+  m_EditorClassIdentifier: 
+  id: 5
+  coffeeName: Flat White
+  price: 15
+  coffeeImage: {fileID: 21300000, guid: 370eaa7338b5b6045a0401fd2ce36b10, type: 3}
+  coffeeSlider: 0.4
+  milkSlider: 0.6
+  isCustomCoffee: 0
